@@ -23,6 +23,7 @@ This repository is dedicated to the Human Activity Recognition (HAR) project, wh
 ### main_utils - containts utils for main
 * fill_ranges_script.ipynb - fills ranges in train_data.csv to extedn train data
 * generate_graphs.ipynb - generate graphs from values from saved logs
+* get_all_secret_data.ipynb - get all features for all secret data
 * get_secret_results.ipynb - use output of lstm_secret_data.ipynb to generate submission file
 * merge_lstm_results.ipynb - use ensemble method on 5 LSTM models from lstm_secret_data.ipynb
 ### models_utils
